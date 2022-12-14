@@ -68,8 +68,7 @@ color:#333333;
 
 .header
 {
-    height: 75%;
-    width:100%
+max-height: 1200px;
    
 }
 /*--Styling Links--*/
