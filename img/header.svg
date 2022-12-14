@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 109.66px;
+      }
+
+      .cls-2 {
+        fill: #442c4c;
+      }
+
+      .cls-3 {
+        fill: #745622;
+      }
+
+      .cls-4 {
+        fill: #27335d;
+      }
+
+      .cls-5 {
+        fill: #171717;
+      }
+
+      .cls-6 {
+        fill: #2c697b;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x="2.28" y="-.36" width="1440" height="1200"/>
+  <text class="cls-1" transform="translate(502.14 550.61)"><tspan x="0" y="0">Saul</tspan></text>
+  <text class="cls-1" transform="translate(693.53 649.37)"><tspan x="0" y="0">Bass</tspan></text>
+  <rect class="cls-3" x="878" y="-.36" width="75" height="554.92"/>
+  <rect class="cls-4" x="503.19" y="581.44" width="75" height="618.54"/>
+  <rect class="cls-6" x="187.37" y="297.59" width="75" height="445.19" transform="translate(745.06 295.31) rotate(90)"/>
+  <rect class="cls-2" x="1173.93" y="384.95" width="75" height="461.7" transform="translate(1827.23 -595.62) rotate(90)"/>
+</svg>

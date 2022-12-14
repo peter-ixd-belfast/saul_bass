@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #745622;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 41.89px;
+      }
+
+      .cls-2 {
+        fill: #fcf9ea;
+      }
+
+      .cls-3 {
+        fill: #171717;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".57" width="1440" height="600"/>
+  <rect class="cls-2" x="914.95" width="50" height="269.6"/>
+  <rect class="cls-2" x="472.05" y="337.85" width="50" height="262.16"/>
+  <rect class="cls-2" x="171.6" y="81.55" width="50" height="394.33" transform="translate(-82.12 475.31) rotate(-90)"/>
+  <rect class="cls-2" x="1218.33" y="128.9" width="50" height="392.2" transform="translate(918.33 1568.33) rotate(-90)"/>
+  <g>
+    <text class="cls-1" transform="translate(434.55 293.77)"><tspan x="0" y="0">Working With</tspan></text>
+    <text class="cls-1" transform="translate(654.72 336.33)"><tspan x="0" y="0">Martin Scorsese</tspan></text>
+  </g>
+</svg>

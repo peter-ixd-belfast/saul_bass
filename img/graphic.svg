@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #745622;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 41.89px;
+      }
+
+      .cls-2 {
+        fill: #fcf9ea;
+      }
+
+      .cls-3 {
+        fill: #171717;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".57" width="1440" height="600"/>
+  <rect class="cls-2" x="899.3" y="-.05" width="50" height="270.76"/>
+  <rect class="cls-2" x="488.89" y="332.27" width="50" height="267.73"/>
+  <rect class="cls-2" x="181" y="76.39" width="50" height="413.14" transform="translate(-76.96 488.97) rotate(-90)"/>
+  <rect class="cls-2" x="1203.97" y="106.58" width="50" height="420.92" transform="translate(911.94 1546.01) rotate(-90)"/>
+  <g>
+    <text class="cls-1" transform="translate(450.94 296.69)"><tspan x="0" y="0">Graphic and</tspan></text>
+    <text class="cls-1" transform="translate(623.52 330.76)"><tspan x="0" y="0">Corporate Design</tspan></text>
+  </g>
+</svg>

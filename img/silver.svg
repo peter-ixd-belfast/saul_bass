@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #745622;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 41.89px;
+      }
+
+      .cls-2 {
+        fill: #fcf9ea;
+      }
+
+      .cls-3 {
+        fill: #171717;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".57" width="1440" height="600"/>
+  <rect class="cls-2" x="995.11" width="50" height="264.57"/>
+  <rect class="cls-2" x="356.15" y="328.52" width="50" height="271.48"/>
+  <rect class="cls-2" x="116.65" y="111.03" width="50" height="284.43" transform="translate(-111.59 394.89) rotate(-90)"/>
+  <rect class="cls-2" x="1254.19" y="182.9" width="50" height="320.47" transform="translate(936.05 1622.33) rotate(-90)"/>
+  <g>
+    <text class="cls-1" transform="translate(321.54 264.57)"><tspan x="0" y="0">Taking Graphic Design</tspan></text>
+    <text class="cls-1" transform="translate(700.35 309.13)"><tspan x="0" y="0">To the</tspan></text>
+    <text class="cls-1" transform="translate(804 354.47)"><tspan x="0" y="0">Sliver screen</tspan></text>
+  </g>
+</svg>
