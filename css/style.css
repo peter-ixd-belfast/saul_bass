@@ -65,6 +65,12 @@ blockquote cite{
     text-transform:uppercase;
 }
 
+.header
+{
+    height: 100%;
+    width:100%
+   
+}
 /*--Styling Links--*/
 
 a{
