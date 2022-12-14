@@ -30,24 +30,6 @@ blockquote {
     line-height: 1.5;
 }
 
-h1,h2 {
-    color:#820933; 
-    font-family: 'Playfair Display', serif; 
-}
-
-h1{
-    font-size: 5.653rem;
-    margin-top: 5rem;
-    padding-bottom:0;
-    text-align: center;
-}
-
-h2{
-    font-size: 1.999rem;
-    margin: 2rem 0 2rem 0;
-    text-align: center;
-}
-
 blockquote{
     font-family: 'IBM Plex Sans', sans-serif;
     font-size:1.4rem;
@@ -59,11 +41,6 @@ blockquote{
 blockquote cite{
 font-style: normal;
 color:#333333;
-
-
-}
-.leader{
-    text-transform:uppercase;
 }
 
 .header
