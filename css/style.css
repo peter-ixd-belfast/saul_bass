@@ -25,6 +25,10 @@ header,section{
     margin-bottom: 2rem;
 
 }
+h2{
+    font-size:1.618rem;
+    font-style:italic;
+}
 blockquote {
     padding: 0.5rem 0;
     line-height: 1.5;
@@ -34,6 +38,7 @@ blockquote{
     font-family: 'IBM Plex Sans', sans-serif;
     font-size:1.4rem;
     font-style:italic;
+    font-weight:600;
     color:#27335D;
     hanging-punctuation: first;
     text-indent:-0.4rem;
@@ -43,6 +48,11 @@ font-size: 1rem;
 font-style: italic;
 color:#171717;
 }
+span{
+    font-size:1.618em;
+    font-weight:600;
+}
+
 
 /*--Styling Links--*/
 
