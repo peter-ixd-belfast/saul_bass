@@ -28,6 +28,7 @@ header,section{
 h2{
     font-size:1.618rem;
     font-style:italic;
+    padding: 1rem,0;
 }
 blockquote {
     padding: 0.5rem 0;
