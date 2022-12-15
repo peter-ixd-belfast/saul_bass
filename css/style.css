@@ -39,7 +39,7 @@ blockquote{
     text-indent:-0.4rem;
 }
 blockquote cite{
-font-size 1rem;
+font-size: 1rem;
 font-style: normal;
 color:#171717;
 }
@@ -107,7 +107,8 @@ nav a:hover {
 footer { 
     background-color:#171717;
     font-size: 0.75rem;
-    color: #fcf9ea; 
+    color: #fcf9ea;
+    text-align: center; 
     } 
     
     footer p { 
