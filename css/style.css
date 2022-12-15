@@ -112,11 +112,9 @@ img{
 
 /*--Styling the Footer--*/
 footer { 
-    background-image: url(../img/footer.svg); 
-    text-align: center; 
-    font-size: 0.75rem; 
-    color: #F2CD5D; 
-    padding: 4em 0 3em 0 
+    background-image: url(../img/footer.svg);
+    background-repeat: no-repeat; 
+    font-size: 0.75rem;  
     } 
     
     footer p { 
