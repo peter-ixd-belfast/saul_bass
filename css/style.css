@@ -118,7 +118,8 @@ footer {
     background-color:#171717;
     font-size: 0.618rem;
     color: #fcf9ea;
-    text-align: center; 
+    text-align: center;
+    margin-bottom:2rem; 
     } 
     
     footer p { 
