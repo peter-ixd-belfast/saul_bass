@@ -112,9 +112,7 @@ img{
 
 /*--Styling the Footer--*/
 footer { 
-    background-image: url(../img/footer.svg);
-    background-repeat: no-repeat; 
-    background-size: auto;
+
     font-size: 0.75rem;  
     } 
     
