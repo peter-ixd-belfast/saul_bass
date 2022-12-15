@@ -112,7 +112,7 @@ img{
 
 /*--Styling the Footer--*/
 footer { 
-    background: #820933; 
+    background-image: url(img/footer.svg); 
     text-align: center; 
     font-size: 0.75rem; 
     color: #F2CD5D; 
