@@ -57,6 +57,12 @@ span{
     display:inline;
     margin:auto;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 .twoimages{
     display: grid;
     column-gap: 10px;
