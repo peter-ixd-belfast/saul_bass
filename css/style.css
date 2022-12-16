@@ -16,9 +16,9 @@ body{
 }
 section,header,p{
     width:80%;
-    max-width:800px;
+    max-width:900px;
     margin:auto;
-    line-height:1.5;
+    line-height:1.5em;
 }
 header,section{
     margin-top: 2rem;
@@ -32,7 +32,7 @@ h2{
 }
 blockquote {
     padding: 0.5rem 0;
-    line-height: 1.5;
+    line-height: 1.5em;
 }
 
 blockquote{
