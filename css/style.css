@@ -61,7 +61,7 @@ span{
     display: grid;
     column-gap: 10px;
     grid-template-columns: repeat(auto-fill, minmax(250px,500px));
-    
+    max-width:1000px;
 }
 
 /*--Styling Links--*/
