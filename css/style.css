@@ -64,7 +64,10 @@ span{
     width: 80%;
     max-width: 800px;
   }
-  .margin{
+  #margin1{
+    margin-bottom: 2rem;
+  }
+  #margin2{
     margin-bottom: 2rem;
   }
 
