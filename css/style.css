@@ -64,6 +64,9 @@ span{
     width: 80%;
     max-width: 800px;
   }
+  .margin{
+    margin-bottom: 2rem;
+  }
 
 
 /*--Styling Links--*/
