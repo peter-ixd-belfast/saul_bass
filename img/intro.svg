@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #745622;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 41.89px;
+      }
+
+      .cls-2 {
+        fill: #fcf9ea;
+      }
+
+      .cls-3 {
+        fill: #171717;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="1.14" width="1440" height="300"/>
+  <g>
+    <text class="cls-1" transform="translate(242.99 121.18)"><tspan x="0" y="0">How did saul bass</tspan></text>
+    <text class="cls-1" transform="translate(534.18 160.72)"><tspan x="0" y="0">Revolutionise</tspan></text>
+    <text class="cls-1" transform="translate(753.27 201.48)"><tspan x="0" y="0">Film Title Sequences?</tspan></text>
+  </g>
+  <rect class="cls-2" x="1077.36" y="-.69" width="50" height="95.9"/>
+  <rect class="cls-2" x="265.27" y="201.48" width="50" height="98.81"/>
+  <rect class="cls-2" x="81.86" y="2.99" width="50" height="213.72" transform="translate(-2.99 216.71) rotate(-90)"/>
+  <rect class="cls-2" x="1296.35" y="71.5" width="50" height="237.3" transform="translate(1131.2 1511.5) rotate(-90)"/>
+</svg>
