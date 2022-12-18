@@ -53,9 +53,11 @@ span{
     font-size:1.618em;
     font-weight:600;
 }
-.header{
-    display:inline;
-    margin: 1em 0 1em 1em;
+.grid-container{
+    display:grid;
+    column-gap: 10px;
+    grid-template-columns: auto auto auto;
+
 }
 .center {
     display: block;
