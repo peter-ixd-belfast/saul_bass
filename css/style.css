@@ -62,6 +62,8 @@ span{
 }
 .grid-container2{
     display:grid;
+    margin:auto;
+    max-width:800px;
     column-gap: 10px;
     grid-template-columns: 1fr 1fr 1fr minmax(250px, 800px);
     justify-content: center;
