@@ -56,7 +56,6 @@ span{
 .grid-container{
     display:grid;
     column-gap: 10px;
-    max-width:800px;
     grid-template-columns: auto auto auto;
     justify-content: center;
 
@@ -64,7 +63,6 @@ span{
 .grid-container2{
     display:grid;
     column-gap: 10px;
-    max-width:800px;
     grid-template-columns: auto auto auto;
     justify-content: center;
 
@@ -72,7 +70,6 @@ span{
 .grid-container3{
     display:grid;
     column-gap: 10px;
-    max-width: 800px;
     grid-template-columns: auto auto auto;
     justify-content: center;
 
@@ -80,7 +77,6 @@ span{
 .grid-container4{
     display:grid;
     column-gap: 10px;
-    max-width: 800px;
     grid-template-columns: auto auto auto;
     justify-content: center;
 
