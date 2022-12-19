@@ -82,6 +82,34 @@ span{
     justify-content: center;
 
 }
+.svg1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.svg2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.svg3{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.svg4{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}.svg5{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}.svg6{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 .center {
     display: block;
     margin-left: auto;
