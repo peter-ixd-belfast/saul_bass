@@ -1,3 +1,8 @@
+/*--Add Font Hitchcock--*/
+@font-face {
+    font-family: myFirstFont;
+    src: url(hitchcock.ttf);
+}
 /*--CSS Reset --*/
 *{
     padding: 0;
