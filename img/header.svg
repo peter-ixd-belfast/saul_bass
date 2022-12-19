@@ -4,7 +4,7 @@
     <style>
       .cls-1 {
         fill: #fff;
-        font-family: Hitchcock, Hitchcock;
+        font-family: hitchcock, hitchcock;
         font-size: 109.66px;
       }
 
