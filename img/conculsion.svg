@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #745622;
+        font-family: Hitchcock, Hitchcock;
+        font-size: 41.89px;
+      }
+
+      .cls-2 {
+        fill: #fcf9ea;
+      }
+
+      .cls-3 {
+        fill: #171717;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".57" width="1440" height="300"/>
+  <rect class="cls-2" x="1100.3" y="0" width="50" height="128.81"/>
+  <rect class="cls-2" x="370.38" y="160.55" width="50" height="139.45"/>
+  <rect class="cls-2" x="123.58" y="-55.45" width="50" height="298.29" transform="translate(54.88 242.27) rotate(-90)"/>
+  <rect class="cls-2" x="1303.97" y="63.54" width="50" height="220.92" transform="translate(1154.97 1502.97) rotate(-90)"/>
+  <g>
+    <text class="cls-1" transform="translate(338.21 104.42)"><tspan x="0" y="0">Saul Bass</tspan></text>
+    <text class="cls-1" transform="translate(497.64 143.96)"><tspan x="0" y="0">Revolutionised</tspan></text>
+    <text class="cls-1" transform="translate(760.52 184.72)"><tspan x="0" y="0">Film Title Sequences</tspan></text>
+  </g>
+</svg>
