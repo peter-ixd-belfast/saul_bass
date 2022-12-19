@@ -64,7 +64,7 @@ span{
 
 }
 .grid-container2{
-    display:grid;
+    display:inline-flex;
     justify-content: center;
     align-content: center;
     column-gap: 10px;
