@@ -6,7 +6,7 @@
 }
       .cls-1 {
         fill: #745622;
-        font-family: Hitchcock, Hitchcock;
+        font-family: hitchcock, hitchcock;
         font-size: 41.89px;
       }
 
