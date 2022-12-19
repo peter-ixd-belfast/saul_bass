@@ -2,13 +2,11 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 300">
   <defs>
     <style>
-      @font-face {
-    font-family: myfont;
-    src: url("../fonts/Hitchcock") format("truetype");
+   =
 }
       .cls-1 {
         fill: #745622;
-        font-family: myfont;
+        font-family: Hitchcock, Hitchcock;
         font-size: 41.89px;
       }
 
