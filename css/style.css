@@ -1,7 +1,7 @@
 /*--Add Font Hitchcock--*/
 @font-face {
     font-family: "myFirstFont";
-    src: url(css/fonts/hitchcock.ttf);
+    src: url(../css/fonts/hitchcock.ttf);
 }
 /*--CSS Reset --*/
 *{
