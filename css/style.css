@@ -7,10 +7,6 @@
     line-height: 1em;
 }
 /*--Start Main Styling --*/
-@font-face {
-    font-family: "myfont";
-    src: url(../fonts/Hitchcock.ttf) format("truetype");
-}
 body{
     background: #FCF9EA;
     color:#171717;
@@ -57,7 +53,8 @@ span{
     font-weight:600;
 }
 .grid-container{
-   display:grid;
+    max-width: 900px;
+    display:grid;
     column-gap: 10px;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
