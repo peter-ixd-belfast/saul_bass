@@ -4,7 +4,7 @@
     <style>
       @font-face {
     font-family: myfont;
-    src: ../fonts/Hitchcock format("truetype");
+    src: url("../fonts/Hitchcock") format("truetype");
 }
       .cls-1 {
         fill: #745622;
