@@ -57,6 +57,18 @@
           <rect class="cls-f" x="185.23" y="26.71" width="75" height="447.47" transform="translate(473.18 27.71) rotate(90)"/>
           <rect class="cls-b" x="1174.93" y="118.35" width="75" height="461.7" transform="translate(1561.62 -863.23) rotate(90)"/>
         </svg>
+        <nav id="mySidebar" class="sidebar">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+          <a href="#">About</a>
+          <a href="#">Services</a>
+          <a href="#">Clients</a>
+          <a href="#">Contact</a>
+        </nav>
+        
+        <div id="main">
+          <button class="openbtn" onclick="openNav()">☰</button>  
+        
+        </div>
 <section>
 <div class="grid-container">
 <div class="griditem"><img src="img/murder.jpg" alt="Image of the Anatomy of a Murder film poster"></div> 
@@ -462,7 +474,17 @@
      
     </footer> 
     
-
+    <script>
+      function openNav() {
+        document.getElementById("mySidebar").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      
+      function closeNav() {
+        document.getElementById("mySidebar").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
 
 
 </body>
