@@ -32,7 +32,7 @@ header,section{
 h2{
     font-family: "myFirstFont", sans-serif;
     font-size:1.618rem;
-    font-style:italic;
+    color: #745622;
     padding: 1rem 0 1rem 0;
 }
 blockquote {
