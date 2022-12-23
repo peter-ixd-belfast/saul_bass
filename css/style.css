@@ -75,13 +75,7 @@ span{
     width: 80%;
     max-width: 800px;
   }
-  .center a:hover{
-   
-        color:#fff;
-        transition: all 0.3s ease-in-out;
-        border-bottom: 1px dotted;
-    
-    }
+  
 
 
     .sidebar {
