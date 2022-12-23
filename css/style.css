@@ -91,7 +91,7 @@ span{
         z-index: 1;
         top: 0;
         left: 0;
-        background-color: #FCF9EA;
+        background-color: #171717;
         overflow-x: hidden;
         transition: 0.5s;
         padding-top: 60px;
@@ -102,13 +102,13 @@ span{
         font-family: "myFirstfont", "sans serif";
         text-decoration: none;
         font-size: 25px;
-        color: #745622;
+        color:  #27335d;
         display: block;
         transition: ease in 0.5s;
       }
       
       .sidebar a:hover {
-        color: #f1f1f1;
+        color: #2c697b;
       }
       
       .sidebar .closebtn {
@@ -123,8 +123,8 @@ span{
         position:fixed;
         font-size: 20px;
         cursor: pointer;
-        background-color: #FCF9EA;
-        color: #745622;
+        background-color: #171717;
+        color:  #27335d;
         padding: 10px 15px;
         border: none;
       }
