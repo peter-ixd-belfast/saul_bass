@@ -75,16 +75,66 @@ span{
     width: 80%;
     max-width: 800px;
   }
-  .center  a:hover  {
+  .center a:hover{
    
-        color:#555555;
+        color:#fff;
         transition: all 0.3s ease-in-out;
         border-bottom: 1px dotted;
     
     }
 
 
-  
+    .sidebar {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #171717;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+      }
+      
+      .sidebar a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #745622;
+        display: block;
+        transition: ease in 0.5s;
+      }
+      
+      .sidebar a:hover {
+        color: #f1f1f1;
+      }
+      
+      .sidebar .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+      .openbtn {
+        font-size: 20px;
+        cursor: pointer;
+        background-color: #171717;
+        color: #745622;
+        padding: 10px 15px;
+        border: none;
+      }
+      
+      .openbtn:hover {
+        background-color: #555555;
+      }
+      
+      #main {
+        transition: margin-left .5s;
+        padding: 16px;
+      }
   #margin1{
     margin-bottom: 2rem;
   }
