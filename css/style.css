@@ -85,7 +85,7 @@ span{
         z-index: 1;
         top: 0;
         left: 0;
-        background-color: #171717;
+        background-color: #FCF9EA;
         overflow-x: hidden;
         transition: 0.5s;
         padding-top: 60px;
@@ -117,19 +117,19 @@ span{
         position:fixed;
         font-size: 20px;
         cursor: pointer;
-        background-color: #171717;
+        background-color: #FCF9EA;
         color:  #27335d;
         padding: 10px 15px;
         border: none;
       }
       
       .openbtn:hover {
-        background-color: #555555;
+        background-color: #777777;
       }
       
       #main {
         transition: margin-left .5s;
-        padding: 16px;
+        padding: 0px;
       }
   #margin1{
     margin-bottom: 2rem;
