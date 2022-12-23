@@ -87,11 +87,11 @@ span{
     .sidebar {
         height: 100%;
         width: 0;
-        position: sticky;
+        position: fixed;
         z-index: 1;
         top: 0;
         left: 0;
-        background-color: #171717;
+        background-color: #FCF9EA;
         overflow-x: hidden;
         transition: 0.5s;
         padding-top: 60px;
@@ -120,9 +120,10 @@ span{
       }
       
       .openbtn {
+        position:fixed;
         font-size: 20px;
         cursor: pointer;
-        background-color: #171717;
+        background-color: #FCF9EA;
         color: #745622;
         padding: 10px 15px;
         border: none;
