@@ -248,12 +248,21 @@ footer {
         margin:auto;
         line-height:1.5em;
     }
+    header,section{
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+  
+  }
       h2{
         font-size:1.618em;
       }
       blockquote{
         font-size:1.618em;
       }
+      blockquote {
+        padding: 2rem 0;
+        line-height: 1.5em;
+    }
       .grid-container1{
         max-width: 400px;
         display:grid;
@@ -273,12 +282,21 @@ footer {
       margin:auto;
       line-height:1.5em;
   }
+  header,section{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
     h2{
       font-size:1.618em;
     }
     blockquote{
       font-size:1.618em;
     }
+    blockquote {
+      padding: 2rem 0;
+      line-height: 1.5em;
+  }
     .grid-container1{
       max-width: 400px;
       display:grid;
