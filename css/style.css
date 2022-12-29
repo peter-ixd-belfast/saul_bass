@@ -272,6 +272,10 @@ footer {
         align-content:center;
     
     }
+    #griditem{
+      padding:1em 1em;
+    }
+    
     .sidebar a{
       font-size:1.618em;
     }
@@ -309,6 +313,9 @@ footer {
       justify-content: center;
       align-content:center;
   
+  }
+  #griditem{
+    padding:1em 1em;
   }
   .sidebar a{
     font-size:1.618em;
