@@ -238,11 +238,10 @@ footer {
         font-size: 0.875em;
       }
       .grid-container{
-        max-width: 800px;
+        max-width: 400px;
         display:grid;
         row-gap: 10px;
         grid-template-rows: 1fr 1fr 1fr;
-        justify-content: center;
     
     }
   }
