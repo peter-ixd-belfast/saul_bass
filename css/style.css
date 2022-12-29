@@ -242,11 +242,49 @@ footer {
       body{
         font-size: 0.875em;
       }
+      section,header,p{
+        width:80%;
+        max-width:600px;
+        margin:auto;
+        line-height:1.5em;
+    }
+      h2{
+        font-size:1.618em;
+      }
+      blockquote{
+        font-size:1.618em;
+      }
       .grid-container1{
         max-width: 400px;
         display:grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
+        justify-content:center;
     
     }
   }
+  @media (max-width:480px){
+    body{
+      font-size: 0.75em;
+    }
+    section,header,p{
+      width:80%;
+      max-width: 400px;
+      margin:auto;
+      line-height:1.5em;
+  }
+    h2{
+      font-size:1.618em;
+    }
+    blockquote{
+      font-size:1.618em;
+    }
+    .grid-container1{
+      max-width: 400px;
+      display:grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+      justify-content:center;
+  
+  }
+}
