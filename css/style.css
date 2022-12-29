@@ -67,10 +67,15 @@ span{
     justify-content: center;
 
 }
-.griditem{
-    width:100%;
-    max-width:100%;
+.grid-container1{
+  max-width: 800px;
+  display:grid;
+  column-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+
 }
+
 /*--Image Position--*/
 .center {
     display: block;
