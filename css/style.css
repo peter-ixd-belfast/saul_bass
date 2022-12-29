@@ -268,7 +268,7 @@ footer {
         display:grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
-        justify-content:center;
+        align-content:center;
     
     }
     .sidebar a{
@@ -305,7 +305,7 @@ footer {
       display:grid;
       grid-template-columns: 1fr;
       grid-template-rows: 1fr 1fr 1fr;
-      justify-content:center;
+      align-content:center;
   
   }
   .sidebar a{
