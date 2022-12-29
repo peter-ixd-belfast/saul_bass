@@ -32,7 +32,7 @@ header,section{
 h2{
     font-family: "myFirstFont", sans-serif;
     font-size:1.618rem;
-    color: #745622;
+    color: #27335D;
     padding: 1rem 0 1rem 0;
 }
 blockquote {
@@ -232,3 +232,17 @@ footer {
     footer .connections a:hover svg path { 
     fill: #27335D; 
     transition: all 0.2s ease-in-out;} 
+
+    @media (max-width:800px){
+      body{
+        font-size: 0.875em;
+      }
+      .grid-container{
+        max-width: 800px;
+        display:grid;
+        row-gap: 10px;
+        grid-template-rows: 1fr 1fr 1fr;
+        justify-content: center;
+    
+    }
+  }
