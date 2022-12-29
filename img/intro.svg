@@ -4,7 +4,7 @@
     <style>
       .cls-1 {
         fill: #745622;
-        font-family: myFirstFont;
+        font-family: Hitchcock, Hitchcock;
         font-size: 41.89px;
       }
 
@@ -25,6 +25,6 @@
   </g>
   <rect class="cls-2" x="1077.36" y="-.69" width="50" height="95.9"/>
   <rect class="cls-2" x="265.27" y="201.48" width="50" height="98.81"/>
-  <rect class="cls-2" x="81.86" y="2.99" width="50" height="213.72" transform="translate(-2.99 216.71) rotate(-90)"/>
-  <rect class="cls-2" x="1296.35" y="71.5" width="50" height="237.3" transform="translate(1131.2 1511.5) rotate(-90)"/>
+  <rect class="cls-2" x="69.86" y="14.99" width="50" height="189.72" transform="translate(-14.99 204.71) rotate(-90)"/>
+  <rect class="cls-2" x="1315.62" y="90.78" width="50" height="198.76" transform="translate(1150.47 1530.78) rotate(-90)"/>
 </svg>

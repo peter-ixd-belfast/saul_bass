@@ -4,7 +4,7 @@
     <style>
       .cls-1 {
         fill: #745622;
-        font-family: myFirstFont;
+        font-family: Hitchcock, Hitchcock;
         font-size: 41.89px;
       }
 
@@ -20,10 +20,8 @@
   <rect class="cls-3" x=".57" width="1440" height="300"/>
   <rect class="cls-2" x="899.3" y="2.08" width="50" height="118.63"/>
   <rect class="cls-2" x="488.89" y="182.27" width="50" height="116.84"/>
-  <rect class="cls-2" x="181" y="-73.61" width="50" height="413.14" transform="translate(73.04 338.97) rotate(-90)"/>
-  <rect class="cls-2" x="1203.97" y="-43.42" width="50" height="420.92" transform="translate(1061.94 1396.01) rotate(-90)"/>
-  <g>
-    <text class="cls-1" transform="translate(450.94 146.69)"><tspan x="0" y="0">Graphic and</tspan></text>
-    <text class="cls-1" transform="translate(623.52 180.76)"><tspan x="0" y="0">Corporate Design</tspan></text>
-  </g>
+  <rect class="cls-2" x="181.06" y="-73.66" width="50" height="413.25" transform="translate(73.09 339.02) rotate(-90)"/>
+  <rect class="cls-2" x="1219.04" y="-28.36" width="50" height="390.79" transform="translate(1077 1411.07) rotate(-90)"/>
+  <text class="cls-1" transform="translate(465.74 141.09)"><tspan x="0" y="0">Graphic and</tspan></text>
+  <text class="cls-1" transform="translate(638.31 183.16)"><tspan x="0" y="0">Corporate Design</tspan></text>
 </svg>
